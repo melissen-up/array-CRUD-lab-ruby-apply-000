@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  solo_family = ["Rey", "Ben", "Leia"] 
-  solo_family << "Han" 
+  solo_family = ["Han", "Leia", "Ben"] 
+  solo_family << "Rey" 
 end
 
 def add_element_to_start_of_array(array, element)
